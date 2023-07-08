@@ -1,0 +1,15 @@
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\bin\Debug\net6.0\ToDoList.Adapters.Cache.deps.json
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\bin\Debug\net6.0\ToDoList.Adapters.Cache.dll
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\bin\Debug\net6.0\ToDoList.Adapters.Cache.pdb
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\bin\Debug\net6.0\ToDoList.Core.Domain.dll
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\bin\Debug\net6.0\ToDoList.Core.Domain.pdb
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.csproj.AssemblyReference.cache
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.AssemblyInfoInputs.cache
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.AssemblyInfo.cs
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.csproj.CoreCompileInputs.cache
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.csproj.CopyComplete
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.dll
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\refint\ToDoList.Adapters.Cache.dll
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ToDoList.Adapters.Cache.pdb
+C:\Users\beatr\source\ToDoList\ToDoList.Adapters.Cache\obj\Debug\net6.0\ref\ToDoList.Adapters.Cache.dll
